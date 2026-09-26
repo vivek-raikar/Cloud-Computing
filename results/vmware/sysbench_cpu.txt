@@ -1,0 +1,23 @@
+sysbench 1.0.20
+
+Test: CPU
+Number of threads: 1
+Prime numbers limit: 20000
+
+CPU speed:
+events per second: 684.51
+
+General statistics:
+total time: 10.0005s
+total number of events: 6846
+
+Latency (ms):
+min: 1.31
+avg: 1.46
+max: 6.16
+95th percentile: 1.58
+sum: 9991.50
+
+Threads fairness:
+events (avg/stddev): 6846.0000/0.00
+execution time (avg/stddev): 9.9915/0.00

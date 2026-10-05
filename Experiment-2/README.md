@@ -437,19 +437,4 @@ The results show that performance differences depend on the workload and system 
 
 The experiment provides practical data for understanding the performance characteristics of traditional virtual machines and container-based virtualization.
 
-
-### The main difference
-
-Your **old version** had lots of repeated material:
-
-> command → screenshot → individual output → graph → another screenshot → explanation
-
-The shortened version is:
-
-> **method → result table → one useful graph → only important evidence**
-
-So you still have **all 17 headings**, all your **real numerical results**, all **6 graphs**, and enough screenshots to prove the experiment was actually performed.
-
-And importantly, **don't delete the unused screenshots from GitHub**. Keep them inside `results/screenshots/`; we're only removing them from the README itself.
-
 ---
